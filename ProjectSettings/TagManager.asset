@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Front
+  - 
+  - Player
+  - Hazard
+  - Back
+  - CameraBound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2884088937
+    locked: 0
+  - name: Back
+    uniqueID: 3300006965
+    locked: 0
+  - name: Platform
+    uniqueID: 2710625863
+    locked: 0
+  - name: Food
+    uniqueID: 1736513649
+    locked: 0
+  - name: Front
+    uniqueID: 4071804267
+    locked: 0
+  - name: Player
+    uniqueID: 3983725329
+    locked: 0

@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 42c3f6270271647c5af17bbc65c6fd3f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Paper Animated_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 610
+      height: 402
+    spriteID: 2f570608db95f44898fa34ff337dac62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Paper Animated_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 4
+      width: 610
+      height: 402
+    spriteID: 24e1d93c47a1748d897e62a4a4b52129
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 4}
+  - name: Paper Animated_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 4
+      width: 610
+      height: 402
+    spriteID: c454e0b3b331249518a5c32bbeea050a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 4}
+  - name: Paper Animated_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 4
+      width: 610
+      height: 402
+    spriteID: 0c6633c7fab2c479f84beb1566bda55b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 4}
+  - name: Paper Animated_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 4
+      width: 610
+      height: 402
+    spriteID: 47628f7bcf6f84b799de39534bee263b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 4}
+  - name: Paper Animated_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 4
+      width: 610
+      height: 402
+    spriteID: 32be848219a7147b594b55662d60ee9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 4}
+  - name: Paper Animated_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 414
+      width: 610
+      height: 402
+    spriteID: 81b59e556b48e408ba7f82e9e9a7d974
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 414}
+  - name: Paper Animated_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 414
+      width: 610
+      height: 402
+    spriteID: e76f53cf9e2244aaf8c2a6fffe372c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 414}
+  - name: Paper Animated_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 414
+      width: 610
+      height: 402
+    spriteID: 45594cd72c36746779dc4201ac08f79a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 414}
+  - name: Paper Animated_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 414
+      width: 610
+      height: 402
+    spriteID: e713eb7ca89bb4846ad5c8f55e00dd33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 414}
+  - name: Paper Animated_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 414
+      width: 610
+      height: 402
+    spriteID: 4a8b0e19e82ff4d01af72060a8494a45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 414}
+  - name: Paper Animated_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 414
+      width: 610
+      height: 402
+    spriteID: 4a56fd21d1319486cbb000ce8c9d7cf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 414}
+  - name: Paper Animated_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 824
+      width: 610
+      height: 402
+    spriteID: f553b6f8a4cb14101ac82b7ca1bcf8d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 824}
+  - name: Paper Animated_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 824
+      width: 610
+      height: 402
+    spriteID: 88208828cda524fad8491dc61422ccff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 824}
+  - name: Paper Animated_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 824
+      width: 610
+      height: 402
+    spriteID: 73791a72336d242089cebcb1076340c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 824}
+  - name: Paper Animated_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 824
+      width: 610
+      height: 402
+    spriteID: dee18732f33c7418882f6979bfc84b19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 824}
+  - name: Paper Animated_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 824
+      width: 610
+      height: 402
+    spriteID: 3cdad38dba36945979a667d9d93ed72b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 824}
+  - name: Paper Animated_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 824
+      width: 610
+      height: 402
+    spriteID: 2321070aa689f4c64821330b0808bfc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 824}
+  - name: Paper Animated_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: bc6d607f308b1477787db10adeaae76f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1234}
+  - name: Paper Animated_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: 245d85b5e7c704095b7adb39bf68c1f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 1234}
+  - name: Paper Animated_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: 58b20caaff605495b92f46416c660ecb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 1234}
+  - name: Paper Animated_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: bbd2c7d464a044e1f8dfae0c25a4de4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 1234}
+  - name: Paper Animated_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: 688477ea1e33948c0a91908f0b7b2cf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 1234}
+  - name: Paper Animated_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 1234
+      width: 610
+      height: 402
+    spriteID: 04ab1e6073f68460283f9028eb7906ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 1234}
+  - name: Paper Animated_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: 0654cfe75e3a649e3a920fbb7a9db5be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1644}
+  - name: Paper Animated_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: 67ffc0196f9644ff5b9cc1c29e3fb161
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 1644}
+  - name: Paper Animated_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: e3b1c4c3c3bd84fcf95dbbd1d95a65a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 1644}
+  - name: Paper Animated_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: cf3d46eaa9da5490ebd6d5830248a0fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 1644}
+  - name: Paper Animated_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: b3efb5474a40847e789c9452f7b6dd42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 1644}
+  - name: Paper Animated_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 1644
+      width: 610
+      height: 402
+    spriteID: 3f3097207bfe247ba98e9be94c3ebbc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 1644}
+  - name: Paper Animated_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: 054a4f5b3b7a5490d8789df7827152e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2054}
+  - name: Paper Animated_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: 7cc4dcdb0479a4cffa6c29d7aeb78b50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 2054}
+  - name: Paper Animated_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: 2d87c7a94961a44c09f632fbfed6cdf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 2054}
+  - name: Paper Animated_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: 65f560b8cbc5342b5993164e139d6042
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 2054}
+  - name: Paper Animated_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: b7a42ef9b5902487e84230f5b4a18414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 2054}
+  - name: Paper Animated_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 2054
+      width: 610
+      height: 402
+    spriteID: 3c25a8bd4f8db4b45959950c3caeafa5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3094, y: 2054}
+  - name: Paper Animated_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2464
+      width: 610
+      height: 402
+    spriteID: 0b5eec19dbca44be1921e0193fb1511d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2464}
+  - name: Paper Animated_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 2464
+      width: 610
+      height: 402
+    spriteID: 25df4530e299c4b20a6be86bb8f967f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 2464}
+  - name: Paper Animated_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1240
+      y: 2464
+      width: 610
+      height: 402
+    spriteID: 62becabc689c14588a2afd72e410e855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1240, y: 2464}
+  - name: Paper Animated_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 2464
+      width: 610
+      height: 402
+    spriteID: ac840c084e30944ecbbc5ae3ddf93d17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 2464}
+  - name: Paper Animated_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.11691542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 2464
+      width: 610
+      height: 402
+    spriteID: c456d1b14f89e4885866433bfa564001
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2476, y: 2464}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1979681647
+    name: Paper Animated
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Paper Animated_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 2f570608db95f44898fa34ff337dac62
+    - name: Paper Animated_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 24e1d93c47a1748d897e62a4a4b52129
+    - name: Paper Animated_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: c454e0b3b331249518a5c32bbeea050a
+    - name: Paper Animated_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 0c6633c7fab2c479f84beb1566bda55b
+    - name: Paper Animated_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 47628f7bcf6f84b799de39534bee263b
+    - name: Paper Animated_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 32be848219a7147b594b55662d60ee9b
+    - name: Paper Animated_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 81b59e556b48e408ba7f82e9e9a7d974
+    - name: Paper Animated_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: e76f53cf9e2244aaf8c2a6fffe372c1a
+    - name: Paper Animated_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 45594cd72c36746779dc4201ac08f79a
+    - name: Paper Animated_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: e713eb7ca89bb4846ad5c8f55e00dd33
+    - name: Paper Animated_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 4a8b0e19e82ff4d01af72060a8494a45
+    - name: Paper Animated_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 4a56fd21d1319486cbb000ce8c9d7cf7
+    - name: Paper Animated_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: f553b6f8a4cb14101ac82b7ca1bcf8d0
+    - name: Paper Animated_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 88208828cda524fad8491dc61422ccff
+    - name: Paper Animated_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 73791a72336d242089cebcb1076340c6
+    - name: Paper Animated_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: dee18732f33c7418882f6979bfc84b19
+    - name: Paper Animated_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 3cdad38dba36945979a667d9d93ed72b
+    - name: Paper Animated_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 2321070aa689f4c64821330b0808bfc5
+    - name: Paper Animated_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: bc6d607f308b1477787db10adeaae76f
+    - name: Paper Animated_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 245d85b5e7c704095b7adb39bf68c1f5
+    - name: Paper Animated_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 58b20caaff605495b92f46416c660ecb
+    - name: Paper Animated_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: bbd2c7d464a044e1f8dfae0c25a4de4e
+    - name: Paper Animated_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 688477ea1e33948c0a91908f0b7b2cf8
+    - name: Paper Animated_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 04ab1e6073f68460283f9028eb7906ce
+    - name: Paper Animated_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 0654cfe75e3a649e3a920fbb7a9db5be
+    - name: Paper Animated_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 67ffc0196f9644ff5b9cc1c29e3fb161
+    - name: Paper Animated_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: e3b1c4c3c3bd84fcf95dbbd1d95a65a3
+    - name: Paper Animated_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: cf3d46eaa9da5490ebd6d5830248a0fb
+    - name: Paper Animated_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: b3efb5474a40847e789c9452f7b6dd42
+    - name: Paper Animated_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 3f3097207bfe247ba98e9be94c3ebbc4
+    - name: Paper Animated_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 054a4f5b3b7a5490d8789df7827152e4
+    - name: Paper Animated_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 7cc4dcdb0479a4cffa6c29d7aeb78b50
+    - name: Paper Animated_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 2d87c7a94961a44c09f632fbfed6cdf8
+    - name: Paper Animated_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 65f560b8cbc5342b5993164e139d6042
+    - name: Paper Animated_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: b7a42ef9b5902487e84230f5b4a18414
+    - name: Paper Animated_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 3c25a8bd4f8db4b45959950c3caeafa5
+    - name: Paper Animated_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 0b5eec19dbca44be1921e0193fb1511d
+    - name: Paper Animated_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 25df4530e299c4b20a6be86bb8f967f0
+    - name: Paper Animated_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: 62becabc689c14588a2afd72e410e855
+    - name: Paper Animated_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: ac840c084e30944ecbbc5ae3ddf93d17
+    - name: Paper Animated_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 47
+        width: 610
+        height: 402
+      spriteId: c456d1b14f89e4885866433bfa564001
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 704, y: 496}
