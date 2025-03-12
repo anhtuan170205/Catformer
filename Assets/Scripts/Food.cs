@@ -8,10 +8,8 @@ public class Food : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            FindObjectOfType<ScoreKeeper>().AddScore(1);
-            Debug.Log("Food eaten");
-            Debug.Log("Score: " + FindObjectOfType<ScoreKeeper>().GetScore());
-            Destroy(gameObject);
+            ScoreKeeper.instance.AddScore(1);
+            gameObject.SetActive(false);
         }
     }
 }

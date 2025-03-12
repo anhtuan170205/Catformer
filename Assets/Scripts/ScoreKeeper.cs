@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class ScoreKeeper : MonoBehaviour
 {
@@ -24,6 +25,8 @@ public class ScoreKeeper : MonoBehaviour
             DontDestroyOnLoad(gameObject);
         }
     }
+
+    public event Action OnScoreChanged;
     int score = 0;
     
     public int GetScore()
@@ -35,9 +38,11 @@ public class ScoreKeeper : MonoBehaviour
         score += points;
         AudioPlayer.instance.PlayEatingClip();
         Mathf.Clamp(score, 0, int.MaxValue);
+        OnScoreChanged?.Invoke();
     }
     public void ResetScore()
     {
         score = 0;
+        OnScoreChanged?.Invoke();
     }
 }

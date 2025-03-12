@@ -5,14 +5,21 @@ using TMPro;
 
 public class UIDisplay : MonoBehaviour
 {
-    ScoreKeeper scoreKeeper;
     public TextMeshProUGUI scoreText;
-    void Awake()
+
+
+    private void Awake()
     {
-        scoreKeeper = FindObjectOfType<ScoreKeeper>();
+        ScoreKeeper.instance.OnScoreChanged += UpdateScoreText; 
     }
-    void Update()
+
+    private void Start()
     {
-        scoreText.text = "FOOD: " + scoreKeeper.GetScore().ToString("00") + "/30";
+        UpdateScoreText();
+    }
+
+    private void UpdateScoreText()
+    {
+        scoreText.text = "FOOD: " + ScoreKeeper.instance.GetScore().ToString("00") + "/30";
     }
 }

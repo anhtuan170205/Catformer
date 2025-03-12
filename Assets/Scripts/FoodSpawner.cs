@@ -8,6 +8,7 @@ public class FoodSpawner : MonoBehaviour
     public Vector2[] spawnPoints;
     void Start()
     {
+        SpawnFood();
         ResetFood();
     }
 
@@ -17,13 +18,19 @@ public class FoodSpawner : MonoBehaviour
         {
             Instantiate(foodPrefabs[i], spawnPoints[i], Quaternion.identity);
         }
-    }
-    public void ResetFood()
-    {
         foreach (GameObject food in GameObject.FindGameObjectsWithTag("Food"))
         {
-            Destroy(food);
+            food.SetActive(true);
         }
-        SpawnFood();
     }
+
+    public void ResetFood()
+    {
+    
+        foreach (GameObject food in GameObject.FindGameObjectsWithTag("Food"))
+        {
+            food.SetActive(true);
+        }
+    }
+
 }
